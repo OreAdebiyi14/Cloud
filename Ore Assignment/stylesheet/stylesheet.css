@@ -1,0 +1,10 @@
+body{
+	font-size: 14pt;
+	font-family: ariel;
+}
+tr.index{
+	table-heading: bold;
+}
+OneDrive tr.index{
+	table-heading: bold;
+}
